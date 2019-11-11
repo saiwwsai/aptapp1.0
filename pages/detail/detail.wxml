@@ -1,0 +1,8 @@
+<!--pages/detail/detail.wxml-->
+<rich-text nodes="{{node1}}" bindtap="tap"></rich-text> 
+
+<rich-text nodes="{{node2}}" bindtap="tap"></rich-text> 
+
+<rich-text nodes="{{node3}}" bindtap="tap"></rich-text> 
+
+

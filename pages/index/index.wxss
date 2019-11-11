@@ -1,0 +1,52 @@
+.click{
+  font-weight: 1500;
+}
+
+
+
+.contact_view{
+  width:40px;
+  height:40px;
+  background-color: rgb(81, 255, 0);
+  text-align:center;
+  align-items: center;
+  padding-top: 20px;
+  border-radius: 20px;
+  line-height: 55px;
+  padding: 2px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.suggestion{
+  display: flex;
+  flex-direction: column;
+}
+
+.kwsugst{
+  font-weight: 700;
+  color: grey;
+}
+
+.rest{
+  color: grey;
+  
+}
